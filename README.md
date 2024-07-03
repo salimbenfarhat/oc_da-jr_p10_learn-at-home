@@ -3,10 +3,10 @@ Openclassrooms - Développeur d'application - JavaScript React - Projet 10 - Lea
 
 ## P10 - Définissez les besoins pour une app de soutien scolaire
 ### Scénario
-Vous travaillez chez Dev4U, une petite agence web dans laquelle tout le monde a une double casquette !
-Votre entreprise a décroché un nouveau client : Learn@Home.
-Cette association met en relation des enfants en difficulté scolaire avec des tuteurs bénévoles.
-Fonctionnant surtout par le bouche à oreille et les SMS, elle souhaite désormais avoir un site web complet.  
+Vous travaillez chez Dev4U, une petite agence web dans laquelle tout le monde a une double casquette !  
+Votre entreprise a décroché un nouveau client : Learn@Home.  
+Cette association met en relation des enfants en difficulté scolaire avec des tuteurs bénévoles.  
+Fonctionnant surtout par le bouche à oreille et les SMS, elle souhaite désormais avoir un site web complet.   
 ![Logo Learn@Home](https://user.oc-static.com/upload/2023/12/26/17036188872639_Capture%20d%E2%80%99e%CC%81cran%202023-12-26%20a%CC%80%2020.27.52.png)   
 Vous êtes chargé par Thomas, votre manager, de cadrer le projet.  
 Il vous envoie un mail :
